@@ -81,7 +81,7 @@ Submit the following commands in sequence, substituting x and y for the values y
 In both courses of action, the line output is the result of the task.
 
 ## Credits
-In this repo, code from the makers of Python, Redis, Django, and Celery were used. In addition, much of this was derived from a blog from Adam McQuistan (link: https://stackabuse.com/asynchronous-tasks-in-django-with-redis-and-celery/)
+In this repository, code from the makers of Python, Redis, Django, Django Extensions, and Celery were used. In addition, much of this was derived from a blog from Adam McQuistan (link: https://stackabuse.com/asynchronous-tasks-in-django-with-redis-and-celery/)
 
 ## License
 This project is licensed under AGPL v3, included in the file titled LICENSE.
