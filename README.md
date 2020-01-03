@@ -58,7 +58,7 @@ If an error is returned here, make sure the directory is correct and django-exte
 
 Minimize both windows. In a third, final terminal window, enter the same directory as the last one.
 ```console
-  # cd /this/is/a/path/asunc_adder/async_adder/
+  # cd /this/is/a/path/async_adder/async_adder/
 ```
 
 Here, there are two options. The first is to run the script provided. This will only work with django-extensions installed. Substitute x and y with the two numbers you want to add. If x, y, or both are left blank, the blank argument will be given the value 0. A string passed will prompt an error.
